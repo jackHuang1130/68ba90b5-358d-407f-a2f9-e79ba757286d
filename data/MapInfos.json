@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"expanded":false,"name":"MAP001","order":10,"parentId":0,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":2,"expanded":true,"name":"商業區","order":5,"parentId":0,"scrollX":884.7272727272727,"scrollY":1181.4545454545455},
+{"id":3,"expanded":true,"name":"公寓走廊","order":6,"parentId":2,"scrollX":893.4545454545455,"scrollY":489.8181818181818},
+{"id":4,"expanded":true,"name":"602室","order":8,"parentId":3,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":5,"expanded":true,"name":"學校","order":1,"parentId":0,"scrollX":1081.0909090909092,"scrollY":1015.6363636363636},
+{"id":6,"expanded":false,"name":"市區","order":4,"parentId":0,"scrollX":1231.6363636363637,"scrollY":1776},
+{"id":7,"expanded":true,"name":"601室","order":7,"parentId":3,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":8,"expanded":true,"name":"公寓 1F","order":9,"parentId":2,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":9,"expanded":false,"name":"學校大廳","order":2,"parentId":5,"scrollX":1026.5454545454545,"scrollY":489.8181818181818},
+{"id":10,"expanded":true,"name":"警察局","order":11,"parentId":0,"scrollX":884.7272727272727,"scrollY":1082.1818181818182},
+{"id":11,"expanded":true,"name":"602室-end-sample","order":12,"parentId":0,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":12,"expanded":true,"name":"警察局begin","order":18,"parentId":0,"scrollX":884.7272727272727,"scrollY":701.4545454545455},
+{"id":13,"expanded":false,"name":"實驗室","order":3,"parentId":5,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":14,"expanded":true,"name":"begin","order":19,"parentId":12,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":15,"expanded":false,"name":"END PLAYING","order":20,"parentId":0,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":16,"expanded":true,"name":"毛利難","order":13,"parentId":11,"scrollX":832,"scrollY":640},
+{"id":17,"expanded":true,"name":"三下有啞","order":14,"parentId":11,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":18,"expanded":true,"name":"里奧‧沒晞","order":15,"parentId":11,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":19,"expanded":true,"name":"碳治郎","order":16,"parentId":11,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
+{"id":20,"expanded":true,"name":"警察局end","order":17,"parentId":11,"scrollX":884.7272727272727,"scrollY":762.5454545454546}
+]
